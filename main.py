@@ -1,0 +1,5 @@
+print("Me 'Asad' hoon\nMain ek diharidar mazdoor hoon")
+print('Test data hai Lala')
+print('Hello'*5)
+print('5'+'5')
+print(5+5)

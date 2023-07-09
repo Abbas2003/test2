@@ -1,0 +1,22 @@
+Date: 6th May,23
+Python 1st class
+Assignment#1: User input basic salary, add three allounces(medical 50%, fix uniform=1000, convience = 25%) = gross salary
+gross me se 2% deduction from IncomeTax 
+Show net Salary
+
+Date: 7th May,23
+Python 2nd class
+Assignment#2: Agr gross salary less than 50,000 to 2% Tax, or agr greater than 50,000 to 4% Tax
+Assignment#3: MarkSheet(with 3 conditions)
+
+Date: 14th May,23
+Python 4th class
+Assignment#4: Using openCV, Read the QR code of any item and print the total sum.(3 to 4 QR codes of any items)
+
+Date: 27th May,23
+Python 7th class
+Assignment#5: Make a rock, scisssor, paper game using mediapipe and cvzone
+
+Date: 28th May,23
+Python 8th class
+Assignment#6: input basic salary. Add Medical allowances(20%) , Convence allowances(50%) and Gross salary(all dict will be added in a lst). Deduct 2% Income Tax. Show the Net Salary within all things in dictionary with infinite loop and print all dictionaries at the end.
